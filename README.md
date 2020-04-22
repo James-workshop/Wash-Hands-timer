@@ -1,6 +1,6 @@
 # Wash Hands timer
 ## Schematic<BR>
-![GITHUB](https://github.com/James-workshop/Wash-Hands-timer/blob/master/Schematic.png "Wash Hands timer")<BR><BR>
+<img>https://github.com/James-workshop/Wash-Hands-timer/blob/master/Schematic.png "Wash Hands timer" <BR><BR>
 
 ## <BR>
 * D1 Mini <BR>
