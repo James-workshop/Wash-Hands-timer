@@ -1,8 +1,8 @@
 # Wash Hands timer
 ## Schematic<BR>
-<img>https://github.com/James-workshop/Wash-Hands-timer/blob/master/Schematic.png "Wash Hands timer" <BR><BR>
+![github](https://github.com/James-workshop/Wash-Hands-timer/blob/master/Schematic.png "Wash Hands timer") <BR><BR>
 
-## <BR>
+## BOM List<BR>
 * D1 Mini <BR>
 * Battery Shield<BR>
 * 1.3" I2C OLED (SSD1306)<BR>
