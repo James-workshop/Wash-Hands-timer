@@ -1,4 +1,5 @@
 # Wash Hands timer
+![github](https://github.com/James-workshop/Wash-Hands-timer/blob/master/Wash_Hands_timer.jpeg "Wash Hands timer") <BR><BR>
 ## Schematic<BR>
 ![github](https://github.com/James-workshop/Wash-Hands-timer/blob/master/Schematic.png "Wash Hands timer") <BR><BR>
 
