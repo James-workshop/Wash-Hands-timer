@@ -10,3 +10,5 @@
 * Waterproof button <BR>
 * Waterproof Case<BR>
 
+## Arduino Library
+You also have to install the esp8266-oled-sh1106 library written by <a href="https://github.com/rene-mt">rene-mt</a>. Get it from <a href="https://github.com/rene-mt/esp8266-oled-sh1106">here</a>.
