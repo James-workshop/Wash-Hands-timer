@@ -13,3 +13,7 @@ It uses the <a href="https://github.com/rene-mt/esp8266-oled-sh1106">esp8266-ole
 * Waterproof button <BR>
 * Waterproof Case<BR>
 ![github](https://github.com/James-workshop/Wash-Hands-timer/blob/master/Schematic.png "Wash Hands timer") <BR><BR>
+
+## How to make<BR>
+  <a href="https://youtu.be/j2Dg0-Ovwsw">https://youtu.be/j2Dg0-Ovwsw</a>
+  
