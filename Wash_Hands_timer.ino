@@ -5,8 +5,9 @@
 // Initialize the OLED display using Arduino Wire:
 SH1106Wire display(0x3c, D3, D4);     // ADDRESS, SDA, SCL
 
-// Optionally include custom images
+// include custom images
 #include "images.h"
+// include custom Font
 #include "fonts_BIG.h"
 
 
