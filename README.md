@@ -29,7 +29,7 @@ It uses the <a href="https://github.com/rene-mt/esp8266-oled-sh1106">esp8266-ole
         <td>SDA</td>
     </tr>
     <tr>
-        <td>D14</td>
+        <td>D4</td>
         <td>SCL</td>
     </tr>
     <tr>
